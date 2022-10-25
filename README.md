@@ -3,7 +3,7 @@
 
 <h1 align="center">Ultraviolet-Node</h1>
 
-<p align="center">The deployable version of Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
+<p align="center">\fun coding tutorial!<br><br></p>
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
